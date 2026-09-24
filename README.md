@@ -17,6 +17,8 @@ Sources des données : Fichiers d'enregistrements des Incidents (2018-2024) et d
 
 ![Tableau de bord Power BI Incidents](Dashboard_Incidents.png)
 
+![Tableau de bord Power BI Mobilisations](Dashboard_Mobilisations.png)
+
 # Insights Clés
 *   **Performance des temps d'arrivée :** 72,9 % des premiers camions arrivent sur les lieux en moins de 6 minutes (le temps moyen est de 5,16 minutes).
 *   **Une forte corrélation horaire :** L'activité suit un pic structurel majeur entre 16h et 21h nécessitant +97 % de ressources supplémentaires par rapport aux heures creuses, une différence validée par le test de Welch. La LFB ajuste ses ressources quasi proportionnellement à la demande (2,2 véhicules par incident).
