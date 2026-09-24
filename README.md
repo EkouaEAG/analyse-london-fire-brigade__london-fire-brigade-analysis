@@ -14,8 +14,8 @@ Sources des données : Fichiers d'enregistrements des Incidents (2018-2024) et d
 2.  **Analyse Statistique (Python) :** Utilisation de modèles statistiques pour valider les hypothèses métiers : corrélation de Pearson, test ANOVA sur les coûts, et test t de Student (Welch) sur les pics horaires.
 3.  **Data Visualisation (Power BI) :** Création d'un tableau de bord interactif divisé en deux axes (Incidents et Mobilisations) avec des indicateurs clés (Temps de réponse, Nombre de véhicules, Coût de la mobilisation).
 
-*(N'oublie pas d'uploader une image de ton tableau de bord et de retirer ce texte)*
-![Tableau de bord Power BI](dashboard_incidents.png)
+
+![Tableau de bord Power BI Incidents](Dashboard_Incidents.png)
 
 # Insights Clés
 *   **Performance des temps d'arrivée :** 72,9 % des premiers camions arrivent sur les lieux en moins de 6 minutes (le temps moyen est de 5,16 minutes).
